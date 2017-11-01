@@ -1,0 +1,26 @@
+.btn-primary {
+  color: "#000000" !important
+  border-color: white !important;
+  background-color: #FFFFFF !important;
+}
+
+.bg-primary {
+  background-color: #000726 !important
+  ;
+}
+
+.text-primary {
+  color: #000726 !important;  
+    
+}
+
+.hr {
+border-color: black !important;    
+    
+}
+
+.a{color:#000726;
+}
+
+.a:hover{color:#000726
+}
